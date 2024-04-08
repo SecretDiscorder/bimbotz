@@ -44,3 +44,6 @@ RUN BOTWA
 npm start
 
 ==================================
+
+
+![WhatsApp Image 2024-04-08 at 23 02 37](https://github.com/SecretDiscorder/bimbotz/assets/139457966/47074ede-6374-4b31-895b-b5b6fea72446)
