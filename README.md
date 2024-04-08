@@ -4,6 +4,8 @@
 Download
 Recode SC Orang
 
+edit owner premium di database premium.json dan owner.json
+
 =========================================================
 
 apt update 
